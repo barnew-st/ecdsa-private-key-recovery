@@ -7,7 +7,7 @@
 3. Find occurances of duplicate `r` and return the transaction hash
 4. Query the blockchain for the transactions, extract all relevant signature parameter (including pubkey, r, ..)
 5. Use this project to recover the Private key
-6. Win.
+6. Win. 
 
 ### 1) Download the BTC Blockchain
 
