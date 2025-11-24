@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # author: github.com/tintinweb
-
+ 
 from Crypto.Random import random
 from Crypto.Hash import SHA
 from Crypto.PublicKey import DSA
