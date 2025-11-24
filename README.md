@@ -1,5 +1,5 @@
 # ecdsa-key-recovery
-Perform ECDSA and DSA Nonce Reuse private key recovery attacks
+Perform ECDSA and DSA Nonce Reuse private key recovery attacks 
 
 A cryptographic research tool for analyzing signature vulnerabilities
 
