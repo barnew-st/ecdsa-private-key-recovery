@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 # github.com/tintinweb
-# 
+#
 # Have:
 #       r, s
 #       pubkey
@@ -796,4 +796,3 @@ if __name__=="__main__":
         for rsig in recovered_sigs:
             print "Privkey recovered: ",rsig.address(), rsig.privkey_wif(), rsig.sig.r
         print ""
-
